@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Has_a_method_that_measure_the_total_execution_time_of
+"""Has_a_method_thatmeasure_the_total_execution_time_of
 a_function"""
 from time import perf_counter
 import asyncio
